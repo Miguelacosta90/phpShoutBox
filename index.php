@@ -9,7 +9,7 @@ error_reporting(E_ALL);
 	$shouts = mysqli_query($con, $query);
 
 ?>
-</!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>Shout Box</title>

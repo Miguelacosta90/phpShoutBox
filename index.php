@@ -7,8 +7,9 @@ error_reporting(E_ALL);
 //creat slect Query
 	$query = "SELECT * FROM Shouts";
 	$shouts = mysqli_query($con, $query);
-
+//this comment is for a test
 ?>
+
 <!DOCTYPE html>
 <html>
 <head>
